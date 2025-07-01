@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Krzyzak.Father">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Father.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.GMF">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GMF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.GMM">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GMM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.GPM">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GPM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.Mother">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mother.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.Parents">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAAIAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Parents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.scaler">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAARAAAAAA=</HashCode>
+      <FileName>scaler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.ListFrag">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListFrag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krzyzak.GPF">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
